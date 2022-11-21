@@ -1,3 +1,7 @@
+## NB: This is a copy of a plugin by [rakr](https://github.com/rakr/).
+
+He removed his repo. Don't know why. Here's a copy.
+
 ## Toggle Background Function
 
 Solarized comes with a Toggle Background plugin that by default will map to if that mapping is available. If it is not available you will need to either map the function manually or change your current mapping to something else.
